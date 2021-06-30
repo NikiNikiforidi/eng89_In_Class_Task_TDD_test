@@ -14,6 +14,10 @@
 ### This file is used to test the outcome. tdd_test.py
 - Importing and installing below packages
 
+
+**Definition**
+- In methods, `assertEqual`: accept three parameter ((value1, value2) int or string):
+- assertEqual and other options are from unittest package
 ```
 import unittest
 import pytest
