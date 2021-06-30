@@ -1,3 +1,5 @@
+# This file (calc_test) contains three methods in the class CalcTest.
+
 class CalcTask:
 
     def divide(self, num1, num2):
